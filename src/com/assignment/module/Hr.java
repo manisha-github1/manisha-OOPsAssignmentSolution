@@ -2,6 +2,7 @@ package com.assignment.module;
 
 
 public class Hr extends Super{
+	
 	public static String departmentName() {
 		//System.out.println("Printing Hr class departmentName method - Hr Department"); 
 		return "HR Department";
@@ -23,7 +24,6 @@ public class Hr extends Super{
 		
 		}
 	
-	//Super dept = new Super();
 	
 	
 	}
